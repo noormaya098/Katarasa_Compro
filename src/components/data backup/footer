@@ -1,0 +1,82 @@
+<!-- <div>
+                      <router-link to="/TentangKami" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-2">
+                          Tentang kami
+                        </h6>
+                      </router-link>
+                    </div>
+                    <div>
+                      <router-link to="/SyaratdanKetentuan" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Syarat dan Ketentuan
+                        </h6>
+                      </router-link>
+                    </div>
+                    <div>
+                      <router-link to="/Kebijakan" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Kebijakan
+                        </h6>
+                      </router-link>
+                    </div>
+                    <div>
+                      <router-link to="/Kontak" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Kontak
+                        </h6>
+                      </router-link>
+                    </div>
+                  </div> -->
+<!-- </section>
+                <section> -->
+<!-- <div class="ms-10">
+                    <h2 class="font-katarasa mt-8">Kategori </h2>
+                    <div>
+                      <router-link to="/Blog" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Blog
+                        </h6>
+                      </router-link>
+                    </div>
+                    <div>
+                      <router-link to="/Korporasi" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Korporasi
+                        </h6>
+                      </router-link>
+                    </div>
+                    <div>
+                      <router-link to="/Bantuan" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Bantuan
+                        </h6>
+                      </router-link>
+                    </div>
+                  </div>
+                </section>
+                <section>
+                  <div class="ms-10">
+                    <h2 class="font-katarasa mt-8">More </h2>
+                    <div>
+                      <router-link to="/Faq" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          FAQ
+                        </h6>
+                      </router-link>
+                    </div>
+                    <div>
+                      <router-link to="/term" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Term of use
+                        </h6>
+                      </router-link>
+                    </div>
+                    <div>
+                      <router-link to="/privacy" style="color: inherit; text-decoration: none;">
+                        <h6 class="font-katarasa1 mt-1">
+                          Privacy Statement
+                        </h6>
+                      </router-link>
+                    </div>
+                  </div>
+                </section> -->
